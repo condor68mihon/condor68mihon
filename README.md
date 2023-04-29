@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning QAP SkillFactory
 - 👯 I’m looking to collaborate on QAP 
 - 🤔 I’m looking for help with GIT
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 -->
